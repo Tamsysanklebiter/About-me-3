@@ -1,3 +1,1 @@
-Accidental readme.md lmao
-
-You can exit now and check the other one
+![.](https://i.postimg.cc/X72jC4Tk/Git-Hub-designs-(2).gif)
